@@ -34,5 +34,6 @@
 
         <header-file src="src/ios/CDVNslookup.h" />
         <source-file src="src/ios/CDVNslookup.m" />
+        <framework src="libresolv.tbd" />
     </platform>
   </plugin>
